@@ -5,7 +5,7 @@ To identify loan defaulter's so that lending club can decide whether a person is
 ## Table of Content
   * [Overview](#overview)
   * [Dataset](#Dataset)
-  * [Feature Information](#Feature Information)
+  * [Feature Information](#Feature_Information)
   * [Libraries used](#Libraries_used)
   * [Pipelines created](#Pipelines_created)
 
@@ -14,7 +14,9 @@ To identify loan defaulter's so that lending club can decide whether a person is
 
 ## Overview
 * Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+
 * Lending clubs are taking risk by lending loans to applicants who will not be able to repay the loan amount.The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders.
+
 * In this project, we will be working on exploring and crunching out the driving factors behind the loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 ## Dataset
